@@ -39,4 +39,4 @@ defaults:
 # Build settings
 markdown: kramdown
 #theme: jekyll-theme-midnight
-remote_theme: jekyll/jekyll-theme-midnight
+#remote_theme: jekyll/jekyll-theme-midnight

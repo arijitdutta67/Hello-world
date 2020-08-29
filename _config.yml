@@ -1,1 +1,42 @@
-theme: jekyll-theme-midnight
+# workshop-template https://github.com/evanwill/workshop-template
+# A Jekyll template for a simple workshop website, designed for github-pages,
+# based on Minima theme https://github.com/jekyll/minima
+
+# Notes: 
+# - fig include, {% include figure.html file="my-cat.jpg" alt="cat" caption="My cat" width="50%" %}
+# - pages with "nav: true" in front matter will be in header nav
+# - use environment variable on build command to include analytics: JEKYLL_ENV=production jekyll build
+
+# site settings
+title: Home
+description: "Homepage of Arijit Dutta"
+keywords: ""
+
+# author settings for cc-by
+author: arijit dutta
+pub_year: 2020
+github_username: arijitdutta67
+
+# add the full url for the github repository
+repo: "https://github.com/arijitdutta67/homepage"
+
+# urls
+# your gh-pages url: https://username.github.io
+url: https://arijitdutta67.github.io
+# your repository name: /repository
+baseurl: /my_homepage
+
+# analytics if desired (and use environment variable on build command)
+google_analytics: UA-74844011-1
+
+# defaults (to simplify front matter)
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+# Build settings
+markdown: kramdown
+#theme: jekyll-theme-midnight
+remote_theme: jekyll/jekyll-theme-midnight

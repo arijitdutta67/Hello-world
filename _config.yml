@@ -40,3 +40,5 @@ defaults:
 markdown: kramdown
 #theme: jekyll-theme-midnight
 #remote_theme: jekyll/jekyll-theme-midnight
+
+theme: jekyll-theme-midnight

@@ -2,7 +2,8 @@
 title: Publications
 nav: true
 ---
-
+# Paper in preparation
+1. **A. Dutta**, S. Bagad, S. Vijayakumaran, "MProve+: Privacy Enhancing Proof of Reserves Protocol for Monero", In preparation, pre-print available [here]({{ site.baseurl }}/paper/mprovePlus.pdf).
 # Publications
   1. **A. Dutta**, A. Jana, S. Vijayakumaran, "Nummatus: A Privacy Preserving Proof of Reserves Protocol for Quisquis," *20th International Conference on Cryptology in India (Indocrypt 2019)*, Hyderabad, India, Dec. 2019. [[doi]](https://doi.org/10.1007/978-3-030-35423-7_10)
   1. **A. Dutta**, S. Vijayakumaran, "Revelio: A MimbleWimble Proof of Reserves Protocol," *2019 Crypto Valley Conference on Blockchain Technology (CVCBT)*, Zug, Switzerland, Jun. 2019. [[preprint]](https://eprint.iacr.org/2019/684) [[doi]](https://doi.org/10.1109/CVCBT.2019.000-5)

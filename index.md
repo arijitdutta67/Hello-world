@@ -7,7 +7,7 @@ title: Home
 </div>
 
 # About me 
-I am a Ph.D. student at [Indian Institute of Technology Bombay](http://www.iitb.ac.in/), Mumbai, India. I am fortunate to work here with my advisor [Prof. Saravanan Vijayakumaran](https://www.ee.iitb.ac.in/~sarva/). During my Ph.D. tenure, I have worked on privacy in blockchain, applied cryptography, and error correcting codes for flash memories.
+I am presently working as a cryptography consultant at [Aztec protocol](https://aztec.network/). I am a graduating Ph.D. student at [Indian Institute of Technology Bombay](http://www.iitb.ac.in/), Mumbai, India. I am fortunate to work here with my advisor [Prof. Saravanan Vijayakumaran](https://www.ee.iitb.ac.in/~sarva/). During my Ph.D. tenure, I have worked on privacy in blockchain, applied cryptography, and error correcting codes for flash memories. My thesis can be found [here]({{ site.baseurl }}/thesis/thesis_final.pdf).
 
 The focus of my Ph.D. thesis is to propose proof of reserves protocols for cryptocurrency exchanges. These cryptographic protocols ensure that the exchange publishing the reserves proofs owns a certain amount of reserves to meet the liabilities to its customers. The protocols also strive to preserve the privacy of the exchange and the underlying cryptocurrency technologies.  
 

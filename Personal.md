@@ -5,9 +5,9 @@ nav: true
 
 ## Hobbies
 Here are some activities which I love to do in my free times.
-- Reading books
+- Reading
 - Swimming
 - Playing flute, table tennis
 - Traveling
-- Spending time with families and friends
-- Learning new things e.g. solving rubik cubes (checked), playing piano and sitar (in the wishlist) 
+- Spending time with family and friends
+- Learning new things  
